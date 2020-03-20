@@ -59,28 +59,28 @@ elif [ $ch -eq 3 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
-git clone https://github.com/TheSpeedX/TBomb
-if [[ -s TBomb/TBomb.sh ]];then
+git clone https://github.com/gurinder-creator/animated-palm-tree.git
+if [[ -s GBomb/GBomb.sh ]];then
 cd TBomb
 cp -r -f * .. > temp
 cd ..
-rm -rf  TBomb >> temp
-rm update.speedx >> temp
+rm -rf  GBomb >> temp
+rm update.gurinder >> temp
 rm temp
-chmod +x TBomb.sh
+chmod +x GBomb.sh
 fi
-echo -e "\e[1;32m TBomb Will Restart Now..."
+echo -e "\e[1;32m GBomb Will Restart Now..."
 echo -e "\e[1;32m All The Required Packages Will Be Installed..."
 echo -e "\e[1;34m Press Enter To Proceed To Restart..."
 read a6
-./TBomb.sh
+./GBomb.sh
 exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet TBomb
+figlet GBomb
 echo -e "\e[1;34mCreated By \e[1;34m"
-toilet -f mono12 -F border SpeedX
+toilet -f mono12 -F border GURI
 echo  " "
 echo -e "\e[1;32m                   Features\e[1;34m"
 echo "  [+] Unlimited And Super-Fast Bombing"
@@ -107,9 +107,9 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet GBomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
+toilet -f mono12 -F border GURI
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: guri66566656@gmail.com \e[0m"
 echo " "
