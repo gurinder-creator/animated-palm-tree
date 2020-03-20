@@ -52,7 +52,8 @@ To use the bomber type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/gurinder-creator/animated-palm-tree.git
-cd GBomb
+cd animated-palm-tree
+cd .github
 chmod +x GBomb.sh
 ./GBomb.sh
 ```
@@ -70,7 +71,8 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/gurinder-creator/animated-palm-tree.git
-cd GBomb
+cd animated-palm-tree
+cd .github
 chmod +x GBomb.sh
 sudo bash GBomb.sh
 ```
@@ -90,14 +92,15 @@ brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/gurinder-creator/animated-palm-tree.git
-cd GBomb
+cd animated-palm-tree
+cd .github
 chmod +x GBomb.sh
 
 # Missing Tools
 
-Toilet cannot be installed yet. But TBomb does still work.
+Toilet cannot be installed yet. But GBomb does still work.
 
-# Run TBomb:
+# Run GBomb:
 
 sudo bash GBomb.sh
 ```
