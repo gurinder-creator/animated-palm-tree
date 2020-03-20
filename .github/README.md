@@ -1,5 +1,5 @@
-<h1 align="center">GBomb v1.7b</h1>
-<p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
+<h1 align="center">GBomb v1 </h1>
+<p align="center">An open-source SMS/call bomber for Linux And Termux modified by GURINDER.</p><br>
 
 ## New update
 - Maximum calls Limit Set To 50
@@ -10,7 +10,7 @@
 - No balance will be deducted for using this script to send SMS/calls.
 - While doing infinite bombing use 2-3 seconds delay and 10 to 20 threads for maximum performance.
 - Don't put spaces in between phone number (Ex- 99999 99999)
-- Make sure you are using the latest version of TBomb
+- Make sure you are using the latest version of GBomb
 - Make sure you are using Python v3.
 
 Here's how you can check it. Type this command in your terminal.
