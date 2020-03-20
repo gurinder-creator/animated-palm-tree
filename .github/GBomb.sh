@@ -52,7 +52,7 @@ elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
 echo 'Call Bomb By SpeedX'> call.xxx
-python3 bomber.py call
+python3 Gbomber.py call
 rm *.xxx >/dev/null 2>&1
 exit 0
 elif [ $ch -eq 3 ];then
@@ -101,8 +101,6 @@ echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: guri66566656@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/speedxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
 echo "Press Enter To Go Home"
 read a3
 clear
