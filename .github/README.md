@@ -116,4 +116,4 @@ Feel Free To Open An Issue...
       
 ```
 
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
+<a href="https://www.youtube.com/c/gurinder">Check Out My YouTube Channel</a>
