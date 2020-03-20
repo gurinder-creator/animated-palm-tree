@@ -1,5 +1,8 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">GBomb v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
+
+## New update
+- Maximum calls Limit Set To 50
 
 ## Note:
 
@@ -33,7 +36,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## Usage:
 
-Run these commands to run TBomb
+Run these commands to run GBomb
 
 ### > For Termux:
 
@@ -48,10 +51,10 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
-./TBomb.sh
+git clone https://github.com/gurinder-creator/animated-palm-tree.git
+cd GBomb
+chmod +x GBomb.sh
+./GBomb.sh
 ```
 
 ### > For Linux:
@@ -66,10 +69,10 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
+git clone https://github.com/gurinder-creator/animated-palm-tree.git
+cd GBomb
+chmod +x GBomb.sh
+sudo bash GBomb.sh
 ```
 
 ### > For macOS:
@@ -86,9 +89,9 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
+git clone https://github.com/gurinder-creator/animated-palm-tree.git
+cd GBomb
+chmod +x GBomb.sh
 
 # Missing Tools
 
@@ -96,20 +99,10 @@ Toilet cannot be installed yet. But TBomb does still work.
 
 # Run TBomb:
 
-sudo bash TBomb.sh
+sudo bash GBomb.sh
 ```
 
-## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
-
-
-## Donators:
-
-**[@] 34D30Y ( 34db0y@protonmail.com  )**
-
-**[@] SC AMAN**
 
 # CONTACT ME:
 
